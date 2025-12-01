@@ -1,0 +1,200 @@
+{
+  "version": 1,
+  "base_track": "LOOK AT ME",
+  "base_artist": "TWICE",
+  "createdAt": "2025-12-01T07:33:27.454998Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Look At Me",
+      "artist": "Girls' Generation",
+      "has_synced": true,
+      "path": "select/01_Look_At_Me_Girls'_Generation.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Look At Me",
+      "artist": "Sylvan Esso",
+      "has_synced": true,
+      "path": "select/02_Look_At_Me_Sylvan_Esso.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Don't Look At Me That Way",
+      "artist": "Chaka Khan",
+      "has_synced": true,
+      "path": "select/03_Don't_Look_At_Me_That_Way_Chaka_Khan.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Look At Me",
+      "artist": "Heaven 17",
+      "has_synced": false,
+      "path": "select/04_Look_At_Me_Heaven_17.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Look at Me Now",
+      "artist": "Wang Chung",
+      "has_synced": true,
+      "path": "select/05_Look_at_Me_Now_Wang_Chung.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "don't look at me!",
+      "artist": "William Crooks",
+      "has_synced": true,
+      "path": "select/06_don't_look_at_me!_William_Crooks.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Look at Me",
+      "artist": "Real McCoy",
+      "has_synced": false,
+      "path": "select/07_Look_at_Me_Real_McCoy.txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Look At Me (When I Rock Wichoo)",
+      "artist": "Black Kids",
+      "has_synced": true,
+      "path": "select/08_Look_At_Me_(When_I_Rock_Wichoo)_Black_Kids.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Look at Me Now",
+      "artist": "Brennan Savage",
+      "has_synced": true,
+      "path": "select/09_Look_at_Me_Now_Brennan_Savage.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Look at Me Know",
+      "artist": "Brennan Savage",
+      "has_synced": true,
+      "path": "select/10_Look_at_Me_Know_Brennan_Savage.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Please Look At Me",
+      "artist": "Dagny",
+      "has_synced": true,
+      "path": "select/11_Please_Look_At_Me_Dagny.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Look At Me Now",
+      "artist": "Caroline Polachek",
+      "has_synced": true,
+      "path": "select/12_Look_At_Me_Now_Caroline_Polachek.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Look At Me Now",
+      "artist": "Chris Brown feat. Lil Wayne & Busta Rhymes",
+      "has_synced": true,
+      "path": "select/13_Look_At_Me_Now_Chris_Brown_feat._Lil_Wayne_&_Busta_Rhymes.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Look At Me Now (Feat. Lil Wayne & Busta Rhymes)",
+      "artist": "Chris Brown",
+      "has_synced": true,
+      "path": "select/14_Look_At_Me_Now_(Feat._Lil_Wayne_&_Busta_Rhymes)_Chris_Brown.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Just Look at Me Now",
+      "artist": "Chumbawamba",
+      "has_synced": true,
+      "path": "select/15_Just_Look_at_Me_Now_Chumbawamba.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Look At Me (Ultimate Mix)",
+      "artist": "John Lennon",
+      "has_synced": false,
+      "path": "select/16_Look_At_Me_(Ultimate_Mix)_John_Lennon.txt"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "Look at Me Now (instrumental)",
+      "artist": "Caroline Polachek",
+      "has_synced": true,
+      "path": "select/17_Look_at_Me_Now_(instrumental)_Caroline_Polachek.lrc"
+    },
+    {
+      "id": "lrclib_18",
+      "source": "lrclib",
+      "title": "Look at Me Now",
+      "artist": "Paradise Lost",
+      "has_synced": false,
+      "path": "select/18_Look_at_Me_Now_Paradise_Lost.txt"
+    },
+    {
+      "id": "lrclib_19",
+      "source": "lrclib",
+      "title": "Look at Me, Look at U",
+      "artist": "Prince",
+      "has_synced": true,
+      "path": "select/19_Look_at_Me,_Look_at_U_Prince.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Look At Me Now",
+      "artist": "양요섭",
+      "has_synced": false,
+      "path": "select/pl_01_Look_At_Me_Now_양요섭.txt"
+    },
+    {
+      "id": "petitlyrics_2",
+      "source": "petitlyrics",
+      "title": "Look At Me, Look At U",
+      "artist": "양요섭",
+      "has_synced": false,
+      "path": "select/pl_02_Look_At_Me,_Look_At_U_양요섭.txt"
+    },
+    {
+      "id": "petitlyrics_3",
+      "source": "petitlyrics",
+      "title": "LOOK AT ME",
+      "artist": "양요섭",
+      "has_synced": false,
+      "path": "select/pl_03_LOOK_AT_ME_양요섭.txt"
+    },
+    {
+      "id": "petitlyrics_4",
+      "source": "petitlyrics",
+      "title": "LOOK AT ME",
+      "artist": "양요섭",
+      "has_synced": false,
+      "path": "select/pl_04_LOOK_AT_ME_양요섭.txt"
+    },
+    {
+      "id": "petitlyrics_5",
+      "source": "petitlyrics",
+      "title": "look at me",
+      "artist": "양요섭",
+      "has_synced": false,
+      "path": "select/pl_05_look_at_me_양요섭.txt"
+    }
+  ]
+}
